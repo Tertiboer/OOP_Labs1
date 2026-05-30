@@ -1,0 +1,11 @@
+D:\ooplaba\5\PluginInterface\bin\Debug\net9.0\PluginInterface.deps.json
+D:\ooplaba\5\PluginInterface\bin\Debug\net9.0\PluginInterface.dll
+D:\ooplaba\5\PluginInterface\bin\Debug\net9.0\PluginInterface.pdb
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\PluginInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\PluginInterface.AssemblyInfoInputs.cache
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\PluginInterface.AssemblyInfo.cs
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\PluginInterface.csproj.CoreCompileInputs.cache
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\PluginInterface.dll
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\refint\PluginInterface.dll
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\PluginInterface.pdb
+D:\ooplaba\5\PluginInterface\obj\Debug\net9.0\ref\PluginInterface.dll
