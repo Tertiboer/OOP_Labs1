@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Main</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Shapes/Shape.cs" />
+    <Compile Include="Shapes/BasicShapes.cs" />
+    <Compile Include="Shapes/DerivedShapes.cs" />
+    <Compile Include="ShapeList/ShapeCollection.cs" />
+    <Compile Include="Main/Program.cs" />
+  </ItemGroup>
+
+</Project>

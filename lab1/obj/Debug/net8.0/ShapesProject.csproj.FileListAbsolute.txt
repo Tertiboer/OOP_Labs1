@@ -1,0 +1,14 @@
+D:\ooplaba\ShapesProject\bin\Debug\net8.0\ShapesProject.exe
+D:\ooplaba\ShapesProject\bin\Debug\net8.0\ShapesProject.deps.json
+D:\ooplaba\ShapesProject\bin\Debug\net8.0\ShapesProject.runtimeconfig.json
+D:\ooplaba\ShapesProject\bin\Debug\net8.0\ShapesProject.dll
+D:\ooplaba\ShapesProject\bin\Debug\net8.0\ShapesProject.pdb
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.AssemblyInfoInputs.cache
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.AssemblyInfo.cs
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.csproj.CoreCompileInputs.cache
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.dll
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\refint\ShapesProject.dll
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.pdb
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ShapesProject.genruntimeconfig.cache
+D:\ooplaba\ShapesProject\obj\Debug\net8.0\ref\ShapesProject.dll
