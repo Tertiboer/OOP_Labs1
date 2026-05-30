@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "Student",
+    "Name": "Ivan",
+    "Age": 20,
+    "GPA": 8.5,
+    "Subject": "",
+    "Department": "",
+    "ThesisTopic": "",
+    "ExperienceYears": 0
+  },
+  {
+    "Type": "Administrator",
+    "Name": "Ivan",
+    "Age": 20,
+    "GPA": 0,
+    "Subject": "",
+    "Department": "Office",
+    "ThesisTopic": "",
+    "ExperienceYears": 0
+  },
+  {
+    "Type": "Teacher",
+    "Name": "Ivan",
+    "Age": 20,
+    "GPA": 0,
+    "Subject": "Math",
+    "Department": "",
+    "ThesisTopic": "",
+    "ExperienceYears": 0
+  }
+]
